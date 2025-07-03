@@ -18,6 +18,15 @@ This project is a sophisticated remote administration tool (RAT) developed in Py
 - **Keylogger:** Capture and retrieve keystrokes from the target.
 - **Privilege Escalation:** Includes a UAC bypass technique for Windows to gain elevated privileges.
 
+## The Python library requirement
+mss
+sounddevice
+scipy
+numpy
+opencv-python
+pynput
+tk 
+
 ## Prerequisites
 
 - Python 3.x
@@ -61,15 +70,6 @@ Install all the required Python packages using the `requirements.txt` file.
 ```bash
 pip install -r requirements.txt
 ```
-
-## The Python library requirement
-mss
-sounddevice
-scipy
-numpy
-opencv-python
-pynput
-tk 
 
 ## Configuration
 
