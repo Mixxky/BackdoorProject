@@ -1,11 +1,4 @@
-The python library requirement
-mss
-sounddevice
-scipy
-numpy
-opencv-python
-pynput
-tk 
+
 
 
 # Backdoor Upgrade - Remote Administration Tool
@@ -68,6 +61,15 @@ Install all the required Python packages using the `requirements.txt` file.
 ```bash
 pip install -r requirements.txt
 ```
+
+## The Python library requirement
+mss
+sounddevice
+scipy
+numpy
+opencv-python
+pynput
+tk 
 
 ## Configuration
 
