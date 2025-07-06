@@ -1,0 +1,1 @@
+mss sounddevice scipy numpy opencv-python pynput tk
