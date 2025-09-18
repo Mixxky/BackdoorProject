@@ -32,8 +32,8 @@ Follow these steps to set up the environment for both the server and the client.
 First, clone the repository to your local machine (both the attacker's and the victim's).
 
 ```bash
-git clone https://github.com/Mixxky/backdoorupgrade.git
-cd backdoorupgrade
+git clone https://github.com/Mixxky/BackdoorProject.git
+cd BackdoorProject
 ```
 
 ### 2. Set Up a Virtual Environment
