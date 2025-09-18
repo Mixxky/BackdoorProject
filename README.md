@@ -1,7 +1,7 @@
 
 
 
-# Backdoor Upgrade - Remote Administration Tool
+#BackdoorProject - Remote Administration Tool
 
 This project is a sophisticated remote administration tool (RAT) developed in Python. It consists of a client (`bd.py`) and a server (`server.py`) with a graphical user interface (GUI) built using Tkinter. This tool is intended for educational purposes in the field of ethical hacking and cybersecurity.
 
